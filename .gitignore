@@ -1,0 +1,18 @@
+# Node
+node_modules
+.next
+out
+
+# Python
+__pycache__
+*.pyc
+.env
+.venv
+
+# Data
+*.wav
+*.mp3
+.DS_Store
+
+# Poetry
+poetry.lock
